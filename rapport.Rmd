@@ -1,0 +1,22 @@
+---
+title: "Evaluation des engagements sociaux selon IAS 19"
+output: word_document
+params:
+  plot: 'NULL'
+---
+
+# Introduction
+
+# IFC
+
+Text .....
+
+## Analyse de données
+
+```{r echo=FALSE}
+params[["plot"]]
+```
+
+## Synthèse
+
+....
